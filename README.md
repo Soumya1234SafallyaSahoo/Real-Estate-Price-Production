@@ -19,8 +19,12 @@ Uses linear regression to estimate prices based on features like area, location,
 Provides accurate, data-backed predictions for real estate stakeholders.
 
 ⚙️ Technical Stack
-Layer	Tools & Technologies
-Data Analysis	Pandas, NumPy
-Visualization	Matplotlib, Seaborn
-Modeling	Scikit-learn (Linear Regression)
+| Layer                     | Tools & Technologies                  |
+| ------------------------- | ------------------------------------- |
+| **Data Analysis**         | Pandas, NumPy                         |
+| **Visualization**         | Matplotlib, Seaborn                   |
+| **Modeling**              | Scikit-learn (Linear Regression)      |
+ 
+
+
 
