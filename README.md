@@ -1,1 +1,1 @@
-![image alt]([https://github.com/Soumya1234SafallyaSahoo/Real-Estate-Price-Production/blob/e802e4a103d0b8123e3b4a3a03e96725dba898d8/_6383e365-595f-4781-a931-2cf711c1ee74.jpg](https://github.com/Soumya1234SafallyaSahoo/Real-Estate-Price-Production/blob/7afe4167d666f7dad6e028f27a320a4994865267/ChatGPT%20Image%20Jun%2028%2C%202025%2C%2002_03_41%20PM.png))
+![image alt](https://github.com/Soumya1234SafallyaSahoo/Real-Estate-Price-Production/blob/7afe4167d666f7dad6e028f27a320a4994865267/ChatGPT%20Image%20Jun%2028%2C%202025%2C%2002_03_41%20PM.png)
